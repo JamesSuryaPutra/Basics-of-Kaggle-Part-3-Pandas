@@ -1,10 +1,7 @@
-January 14th, 2024
-Basics of Kaggle
--3rd Course: Pandas-
-
-=======================
+Date: January 14th, 2024
 User: James Surya Putra
-=======================
+
+# Basics of Kaggle: 3rd Course - Pandas
 
 DISCLAIMER:
 - All tutorials and exercises are taken, including questions, submissions, hints, and solutions.
