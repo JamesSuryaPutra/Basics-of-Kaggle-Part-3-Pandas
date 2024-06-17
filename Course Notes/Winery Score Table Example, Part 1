@@ -1,8 +1,0 @@
-country	description	designation	points	price	province	region_1	region_2	taster_name	taster_twitter_handle	title	variety	winery
-country	province													
-Argentina	Mendoza Province	Argentina	If the color doesn't tell the full story, the ...	Nicasia Vineyard	97	120.0	Mendoza Province	Mendoza	NaN	Michael Schachner	@wineschach	Bodega Catena Zapata 2006 Nicasia Vineyard Mal...	Malbec	Bodega Catena Zapata
-Other	Argentina	Take note, this could be the best wine Colomé ...	Reserva	95	90.0	Other	Salta	NaN	Michael Schachner	@wineschach	Colomé 2010 Reserva Malbec (Salta)	Malbec	Colomé
-...	...	...	...	...	...	...	...	...	...	...	...	...	...	...
-Uruguay	San Jose	Uruguay	Baked, sweet, heavy aromas turn earthy with ti...	El Preciado Gran Reserva	87	50.0	San Jose	NaN	NaN	Michael Schachner	@wineschach	Castillo Viejo 2005 El Preciado Gran Reserva R...	Red Blend	Castillo Viejo
-Uruguay	Uruguay	Cherry and berry aromas are ripe, healthy and ...	Blend 002 Limited Edition	91	22.0	Uruguay	NaN	NaN	Michael Schachner	@wineschach	Narbona NV Blend 002 Limited Edition Tannat-Ca...	Tannat-Cabernet Franc	Narbona
-425 rows × 13 columns
